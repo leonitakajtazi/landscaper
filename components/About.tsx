@@ -3,7 +3,7 @@ import React from 'react';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
 
 const teamMembers = [
-  { name: 'John Doe', role: 'Founder & Lead Designer', imageUrl: 'https://img.freepik.com/free-photo/young-handsome-cheerful-gardener-smiling-taking-care-flowers_176420-3796.jpg?semt=ais_hybrid&w=740&q=80' },
+  { name: 'Matthew Taylor', role: 'Founder & Lead Designer', imageUrl: 'https://img.freepik.com/free-photo/young-handsome-cheerful-gardener-smiling-taking-care-flowers_176420-3796.jpg?semt=ais_hybrid&w=740&q=80' },
   { name: 'Jane Smith', role: 'Horticulturist', imageUrl: 'https://img.freepik.com/free-photo/smiling-afro-gardener-using-hedge-trimmer-cutting-bushes_651396-1479.jpg?semt=ais_hybrid&w=740&q=80' },
   { name: 'Mike Johnson', role: 'Hardscape Foreman', imageUrl: 'https://www.nannybutler.com/wp-content/uploads/2021/01/gardener.jpg' },
 ];
