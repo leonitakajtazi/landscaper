@@ -13,7 +13,7 @@ const testimonials = [
     name: 'David L.',
     quote: "The attention to detail on our new stone patio is incredible. The craftsmanship is top-notch. I highly recommend them for any hardscaping project.",
     rating: 5,
-    imageUrl: 'https://picsum.photos/100/100?image=306'
+    imageUrl: 'https://img.freepik.com/free-photo/emotions-people-concept-headshot-serious-looking-handsome-man-with-beard-looking-confident-determined_1258-26730.jpg'
   },
   {
     name: 'Maria G.',
